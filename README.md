@@ -6,5 +6,4 @@ Training datasets are generated in the various `gendatasetXX_XXXX.ipynb` noteboo
 
 Design multiple DNN architectures and models using `multi_mod_compact.ipynb`, then implement training. During training, use `DNN_training_progress.ipynb` to monitor DNN performance and accuracy. Finally, use `DNN_application.ipynb` to perform validation of trained DNN model, construct the confusion matrix, and make inferences on experimental data retrieved from <a href=https://www.hepdata.net/record/ins1728691>HEPData</a>.
 
-#### If you wish to use our codes in your work, please cite our paper: 
-<a href=https://arxiv.org/abs/2403.18265>arXiv:2403.18265</a>.
+#### If you wish to use our codes in your work, please cite our paper: [arXiv:2403.18265](https://arxiv.org/abs/2403.18265).
